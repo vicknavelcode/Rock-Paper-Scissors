@@ -1,4 +1,5 @@
 from random import randint
+print('This is a Rock Paper and Scissors Game')
 want1=0
 while want1!=2:
 
